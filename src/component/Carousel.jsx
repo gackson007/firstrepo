@@ -3,7 +3,7 @@ import React from 'react'
 const Carousel = () => {
   return (
     <div>
-      Carousel
+      Carousel, dispaly the sliding images
     </div>
   )
 }
